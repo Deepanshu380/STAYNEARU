@@ -18,7 +18,7 @@ let cardsData = [
   {
     name: "Kartik Goyal",
     imageUrl:
-      "https://images.unsplash.com/photo-1610088441520-4352457e7095?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1lbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+      "/Images/Kartik.jpg",
     profession: "Developer",
     mailId: "kartikgoyal0852@gmail.com",
     mailHref: "mailto:kartikgoyal0852@gmail.com",
@@ -27,7 +27,7 @@ let cardsData = [
   },
   {
     name: "Dheeraj Baghel",
-     imageUrl: "/Images/Dheeraj.png",
+     imageUrl: "/Images/Dheeraj.jpg",
     profession: "Developer",
     mailId: "dheerajbaghel1987@gmail.com",
     mailHref: "mailto:dheerajbaghel1987@gmail.com",
