@@ -90,7 +90,7 @@ const NavBarItems = (prop) => {
                 style={{ color: "white", textDecoration: "none" }}
                 to="/signUp"
               >
-                <Buttons text="Sign Up" backColor="#388e3c" mrg="auto" />
+                <Buttons text="Sign Up" backColor="#388e3c" mrg="10rem" />
               </Link>
 
               <Link
